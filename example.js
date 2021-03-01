@@ -1,3 +1,10 @@
+/*
+Hello. Thank you for your attention to this test. This is a simple test to demonstrate basic skills using Webdriver.io. 
+I know that you can add more negative checks to this test, use Page Model Object and other patterns, it will take a little more time. 
+Let's discuss it?:)
+Best wishes, Vlad
+*/
+
 describe('UI Test: Build an automated test for the website registration', () => {
     it('Opening a test site', () => {
         browser.url('http://automationpractice.com/index.php');
